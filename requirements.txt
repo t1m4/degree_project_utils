@@ -1,0 +1,4 @@
+Django>=2.2
+djangorestframework>=3.8
+pyjwt>=2.3.0
+requests>=2.22.0
